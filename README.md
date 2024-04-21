@@ -24,14 +24,14 @@
       <br>
       <b>AIR-hl @ Northeastern University</b>
       <br>
-        <a href='https://github.com/AIR-hl'>Llama3-Chinese-ORPO项目的核心开发成员</a>
+        <a href='https://github.com/AIR-hl'>Llama3-Chinese-ORPO项目的核心贡献者</a>
     </td>
     <td align='center'>
       <img src="https://avatars.githubusercontent.com/u/94281210?v=4" alt="Contributor 3" height="150">
       <br>
       <b>zzlf @ Northeastern University</b>
       <br>
-        <a href='https://github.com/zzlf'>Llama3-Chinese-ORPO项目的核心开发成员</a>
+        <a href='https://github.com/zzlf'>Llama3-Chinese-ORPO项目的核心贡献者</a>
     </td>
   </tr>
   </table>
