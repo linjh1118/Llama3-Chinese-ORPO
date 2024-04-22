@@ -10,8 +10,9 @@
 
 ## 模型列表
 
-| Llama3-Chinese-pro-8.4B-sft-1M | 在对llama3-8b的base版本（meta-llama/Meta-Llama-3-8B）进行llama-pro拓展了两层后，进而通过一百万条SFT数据训练而得到。 |   |   |
+| 模型名称 | 模型简介 | ModelScope下载链接  | Huggingface下载链接 |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------|---|---|
+| Llama3-Chinese-pro-8.4B-sft-1M | 在对llama3-8b的base版本（meta-llama/Meta-Llama-3-8B）进行llama-pro拓展了两层后，进而通过一百万条SFT数据训练而得到。 |  [Llama3-Chinese-pro-8.4B-sft-1M](https://modelscope.cn/models/linjh1118/Llama3-Chinese-pro-8.4B-sft-1M) |   |
 |                                |                                                                                                                     |   |   |
 |                                |                                                                                                                     |   |   |
 
@@ -45,4 +46,5 @@
   </tr>
   </table>
 
-感谢前人的优秀工作：https://github.com/CrazyBoyM/llama3-Chinese-chat (全球第一个中文llama3)
+
+非常非常感谢前人的优秀工作：https://github.com/CrazyBoyM/llama3-Chinese-chat (全球第一个中文llama3)
