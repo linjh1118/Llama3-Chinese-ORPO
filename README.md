@@ -16,6 +16,26 @@
 |                                |                                                                                                                     |   |   |
 |                                |                                                                                                                     |   |   |
 
+## 测试表现
+
+<details>
+<summary>展开查看 测试表现</summary>
+
+
+1. **随意的五个问题**
+
+### 先插入放两张没有训练完毕的Llama3-Chinese-pro-8.4B-sft-1M的回复，哈哈
+
+![Alt text](case/image-2.png)
+
+
+### 回到正经测评
+
+![Alt text](case/image.png)
+
+![Alt text](case/image-1.png)
+
+</details>
 
 ## 主要贡献者 Contributors
 **排名不分*先后***
