@@ -50,9 +50,9 @@
         <a href='https://github.com/linjh1118'>Llama3-Chinese-ORPO项目的核心贡献者</a>
     </td>
     <td align='center'>
-      <img src="https://avatars.githubusercontent.com/u/66808901?v=4" alt="Contributor 2" height="150">
+      <img src="https://avatars.githubusercontent.com/u/59789526?v=4" alt="Contributor 2" height="150">
       <br>
-      <b>AIR-hl @ Northeastern University</b>
+      <b>Charon-ops @ Tsinghua University</b>
       <br>
         <a href='https://github.com/AIR-hl'>Llama3-Chinese-ORPO项目的核心贡献者</a>
     </td>
@@ -62,6 +62,34 @@
       <b>zzlf @ Northeastern University</b>
       <br>
         <a href='https://github.com/zzlf'>Llama3-Chinese-ORPO项目的核心贡献者</a>
+    </td>
+  </tr>
+  </table>
+
+
+
+<table>
+  <tr>
+    <td align='center'>
+      <img src="https://avatars.githubusercontent.com/u/66808901?v=4" alt="Contributor 2" height="150">
+      <br>
+      <b>AIR-hl @ Northeastern University</b>
+      <br>
+        <a href='https://github.com/AIR-hl'>Llama3-Chinese-ORPO项目的核心贡献者</a>
+    </td>
+    <td align='center'>
+      <img src="https://avatars.githubusercontent.com/u/116535337?v=4" alt="Contributor 3" height="150">
+      <br>
+      <b>yanyi74 @ Northeastern University</b>
+      <br>
+        <a href='https://github.com/yanyi74'>Llama3-Chinese-ORPO项目的核心贡献者</a>
+    </td>
+    <td align='center'>
+      <img src="https://avatars.githubusercontent.com/u/84018897?v=4" alt="Contributor 1" height="150">
+      <br>
+      <b>MrChen-NEU @ Northeastern University</b>
+      <br>
+        <a href='https://github.com/MrChen-NEU'>Llama3-Chinese-ORPO项目的核心贡献者</a>
     </td>
   </tr>
   </table>
